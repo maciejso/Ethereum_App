@@ -4,7 +4,9 @@
   "description": "This is the code for \"A Guide to Building Your First Decentralized Application\" by Siraj Raval on Youtube",
   "main": "runner.js",
   "dependencies": {
-    "ethereumjs-testrpc": "^6.0.3"
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.4.19",
+    "web3": "^1.0.0-beta.26"
   },
   "devDependencies": {},
   "scripts": {
