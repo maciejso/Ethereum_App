@@ -1,0 +1,23 @@
+{
+  "name": "ethereum_app",
+  "version": "1.0.0",
+  "description": "This is the code for \"A Guide to Building Your First Decentralized Application\" by Siraj Raval on Youtube",
+  "main": "runner.js",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maciejso/Ethereum_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maciejso/Ethereum_App/issues"
+  },
+  "homepage": "https://github.com/maciejso/Ethereum_App#readme"
+}
